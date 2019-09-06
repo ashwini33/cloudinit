@@ -2,7 +2,7 @@
 ### userdata scripts
 
 <h3>ubuntu_ec2_instance_connect </h3>
-<p> This is used to install ec2-instance-connect on an Ubuntu instance </p>
+<p> Paste the following in AWS userdata section to install ec2-instance-connect on an Ubuntu instance </p>
 
  ```bash
  #!/bin/bash
